@@ -31,6 +31,9 @@ sysinfo.txt
 *.unitypackage
 *.app
 
+# Allow docs folder for GitHub Pages
+!docs/
+
 # Crashlytics generated file
 crashlytics-build.properties
 
