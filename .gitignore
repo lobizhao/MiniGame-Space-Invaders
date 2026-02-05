@@ -33,6 +33,7 @@ sysinfo.txt
 
 # Allow docs folder for GitHub Pages
 !docs/
+!docs/Build/
 
 # Crashlytics generated file
 crashlytics-build.properties
